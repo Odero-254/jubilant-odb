@@ -1,0 +1,2 @@
+# jubilant-odb
+pure projects
